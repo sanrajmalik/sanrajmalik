@@ -14,6 +14,6 @@ I am a Computer Science Engineer by profession and a passionate Full Stack Devel
 
 
 ## :dart: Find me on Web
-**Say Hi to me on [LinkedIn](https://www.linkedin.com/in/sanraj.malik/)** :heart: 
+**Say Hi to me on [LinkedIn](https://www.linkedin.com/in/sanraj-malik/)** :heart: 
 
 
