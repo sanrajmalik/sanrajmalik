@@ -22,66 +22,6 @@ I spend a lot of time thinking about:
 
 ---
 
-## What I'm Building
-
-### 🚀 Instagram Automation SaaS
-Currently building a multi-tenant SaaS around Instagram automation:
-
-- DM automation, comment triggers, story interactions  
-- Lead capture workflows → CRM pipelines  
-- Meta OAuth + webhook-driven architecture  
-- Event-based processing using AWS  
-
-This is less about automation and more about:
-> turning conversations into structured, trackable business funnels
-
----
-
-### 📊 CRM + Lead Intelligence System
-
-Working on improving how leads are handled post-capture:
-
-- Lead lifecycle tracking (source → follow-ups → conversion)  
-- Counsellor performance metrics (actual efficiency, not vanity metrics)  
-- Exploring AI for:
-  - lead scoring  
-  - prioritization  
-  - follow-up suggestions  
-
----
-
-### 📈 Programmatic SEO Experiments
-
-Built and scaled pages using programmatic SEO — saw them spike and crash.
-
-Learned the hard way:
-- traffic ≠ stability  
-- Google rewards structure, but punishes patterns  
-- distribution & authority matter as much as content  
-
-Still experimenting here.
-
----
-
-## How I Think About Systems
-
-A few things I naturally care about:
-
-- **Multi-tenancy done right**  
-  → tenant isolation, indexing strategy, query patterns  
-
-- **Database performance**  
-  → composite indexes, avoiding unnecessary joins, query planning  
-
-- **Async first design**  
-  → queues > blocking APIs  
-  → retries, idempotency, failure handling  
-
-- **Practical scalability**  
-  → not overengineering early  
-  → but not painting myself into a corner  
-
----
 
 ## Tech I Use Often
 
@@ -93,23 +33,7 @@ A few things I naturally care about:
 
 ---
 
-## What You Won’t See Here
 
-- No buzzwords for the sake of it  
-- No “passionate about coding” lines  
-- No overengineered side projects  
-
-Just things I’ve built, broken, optimized, and learned from.
-
----
-
-## Currently Interested In
-
-- Better SaaS architecture patterns  
-- AI applied to real workflows (not just demos)  
-- Scaling systems without killing developer velocity  
-
----
 
 ## Reach Out
 
